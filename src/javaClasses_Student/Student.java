@@ -1,4 +1,4 @@
-package javaClasses;
+package javaClasses_Student;
 
 import java.time.LocalDate;
 
